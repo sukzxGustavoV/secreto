@@ -167,8 +167,8 @@ button:disabled {
     -o-transform: scaleX(-1);
     -webkit-transform: scaleX(-1);
     transform: scaleX(-1);
-    height: 850px;
-    width: 850px;
+    height: 700px;
+    width: 700px;
     margin-left: 150px;
     
 }
